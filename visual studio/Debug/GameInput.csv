@@ -1,0 +1,34 @@
+0|You've ventured into the grand kindgom of Hyrule on a quest to save Princess Zelda. The Calamity Ganon has overtaken the Hyrule and threatens it ruin, but Zelda has managed to hold is power back for the past hundred years!|Head straight to the castle?|1|Head for Kakariko Village?|2|Wander into the Lost Woods?|3|
+1|On your way to the castle, you encounter a Guardian corrupted by Ganon's power. You attempt to run away, but the Guardian gets a shot on you and instantly incenerates you!|Play again?|0|Quit for now!|-1|
+2|A member of the Yiga Clan has spotted you and started to attack you. The Yiga Clan has trained their entire life to elminate you!|Run away?|4|Offer him a banana?|5|Fight back?|6|
+3|You arrived at the edge of the Lost Woods, and you see a large tree in the middle. The Lost Woods is a mystical forest known for getting lost forever in!|Turn right?|3|Go straight?|7|Turn left?|8|
+4|Yiga Members have mastered the ability to teleport, which renders your attempted to run away futile. You are struck down with this Vicious Sickle!|Play again?|0|Quit for now!|-1|
+5|You successfully arrive at the infamous Kakariko Village, and know that you must seek the wisdom of the elder Impa!|Abuse the local Cucoos?|9|Leave town?|10|Talk to the elder Impa?|11|
+6|You have to decide how you will fight back!|Sword?|12|Shield?|13|Bow and arrow?|14|
+7|You venture deep into the woods only filled with the free of being lost. After a while, you decided to sit down on a stump for a while, but as your weight shifts onto the stump you fall through into a deep pit. You do not survive the fall!|Play again?|0|Quit for now!|-1|
+8|You reach the Great Deku Tree who tells of the tales of the Hero of Time who weilded the legendary blade called the Master Sword. He then asks you to prove yourself worthy to weild the legendary sword and you do so. The tree grants you permission to take the sword and use its extensive power!|Head to Kakariko Village?|2|Head to Hyrule Castle!|26|Harness the Deku Tree's Power?|15|
+9|Rule number one of Zelda: NEVER HIT A CUCOO! After hitting the cucoo, all the local cucuoos began swarming at you and peaking you. Their numbers overwelmed you and you fell in battle against the cuccos!|Play again?|0|Quit for now!|-1|
+10|You come upon a small Bokablin camp and they seem to be guarding some treasure, but you can not see the treasure!|Distract them with an apple?|16|Disguise yourself as a bush?|17|Shoot an arrow at them?|18|
+11|The elder Impa tells tales of the Hero of Time and how over 10,000 years ago he defeated the powers of Ganon with a legendary sword. She tells you that you must find this legendary sword to defeat the powers of Ganon again!|Head to the Lost Woods?|3|Head straight for the castle?|1|Head down Lanayru Road?|19|
+12|You miss your attack against him and he is able to strike you before you can regain your stance. You are struck down in battle!|Play again?|0|Quit for now!|-1|
+13|You yank out your sheild and use it to deflect each attack against you. Unfortunately, you can not make an attack against him and your shield eventually breaks, along with your spirit!|Play again?|0|Quit for now!|-1|
+14|Your quick bow reflexes enable you to easily land a shot on him and he falls in battle against you!|Continue to Kakariko Village?|5|Wander through the forest?|10|Head to Lanayru Road?|19|
+15|You are no matched for the wisdom of the Deku Tree and his follows. You are overwelmed and fall in a futile attempt to gain an unknown power!|Play again?|0|Quit for now!|-1|
+16|They go to inspect the apple but the apples doen't grab their attention for long enough. You are caught and you are knocked out!|Run away?|21|Fight back?|22|Head to Kakariko Village?|5|
+17|Your disguise works for a while but even the dumb Bokablins notice the bush tryna steal all their treasure. The swarm around you and knock you out with their clubs!|Play again?|0|Quit for now!|-1|
+18|The arrow hits an explosive barrel, which kills them all. You get some treasure but nothing very helpful!|Head to Lanayru Road?|19|Venture to the Lost Woods?|3|Sit a while?|20|
+19|As you past through the East Gate a whild Lynel spots you. He takes a stance with him bow and arrow and shots right where you are, which kills you!|Play again?|0|Quit for now!|-1|
+20|You fall asleep, and are ambushed by more Bokablins. You never wake up again!|Play again?|0|Quit for now!|-1|
+21|As your running away, the local Kokiri tribes gather around your bushy self!|Have them protect you?|23|Have them hide you?|24|Keep running?|25|
+22|Miraclously, you fend them off with your amazing sword skills!|Sit a while?|20|Head to Hyrule Castle!|26|Head to Kakariko Village?|5|
+23|The Korkiri all run away since they are small, and the Bokalins beat you to death!|Play again?|0|Quit for now!|-1|
+24|The Korkiri are masters of disguise, and you successfully evade the Bokablins!|Venture to the Lost Woods?|3|Check out the Dueling Peaks shrine?|27|Pray to the goddess Hylia?|28|
+25|You eventually run out of breath, and you are clubbed to death!|Play again?|0|Quit for now!|-1|
+26|You arrive at Hyrule Castle's sactum just as Calamity Ganon is freed from Zelda's weakening power!|Begin to fight?|29|Run away?|30|Look for Zelda?|31|
+27|The earth shakes as you arrive, and a large boulder crushes you!|Play again?|0|Quit for now!|-1|
+28|Hylia blesses and offers you safe passage to Hyrule Castle!|Accept?|26|Decline and wander forest?|10|Decline and head to the Lost Woods?|3|
+29|You must chose how to take up arms against the Calamity Ganon!|A bow and arrow?|32|The Master Sword?|33|A shield?|13|
+30|Running away is futile, and Ganon catches you and eliminates you!|Play again?|0|Quit for now!|-1|
+31|You can't find Zelda and Ganons catches you and he does not spare you!|Play again?|0|Quit for now!|-1|
+32|The Calamity Ganon lets out this horrific scream and begins to climb onto the walls. Your use your bow and an ancient arrow and knock him down from the wall, by landing a direct shot in his eyes. The Master Sword begins to glow a bright blue as if the sword is telling you to use it.  You finish the calamity off with the power of the Master Sowrd. Congratulations you have won!|Play again?|0|Quit for now!|-1|
+33|Ganon climbs on the walls which renders the Master Sword useless. He takes aim and shoots you with his energy lazer and you fall down and die!|Play again?|0|Quit for now!|-1|
