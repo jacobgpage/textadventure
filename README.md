@@ -1,4 +1,4 @@
-# Zelda text Adventure Game
+# Zelda Text Adventure Game
 Author: Jacob P.
 Finished: April 10, 2020
 
