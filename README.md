@@ -11,6 +11,6 @@ ID = Number of Prompt, Prompt Text and Response are just characters, and Respons
 ID|Prompt Text|Response|Response ID|Response|Response ID|Response|Response ID|
 
 ___________________________________________________________
-|A winning path chose: 1 > 1 > 2 > 0 > 2 > 1 > 0 > 0 > Win!|
-|A losing path chose: 0 > Lose!                            |
+A winning path chose: 1 > 1 > 2 > 0 > 2 > 1 > 0 > 0 > Win!
+A losing path chose: 0 > Lose!                            
 ___________________________________________________________
