@@ -11,6 +11,7 @@
 
 using namespace std;
 
+//Default constructor
 Response::Response() {
 	
 	setResponse( "" );
@@ -18,6 +19,7 @@ Response::Response() {
 	
 }
 
+//Two parameter constructor that takes a string and integer
 Response::Response( string s, int i ) {
 	
 	setResponse( s );
@@ -25,6 +27,7 @@ Response::Response( string s, int i ) {
 	
 }
 
+//Copy constructor
 Response::Response( const Response& r ) {
 	
 	setResponse( r.response );
@@ -32,18 +35,21 @@ Response::Response( const Response& r ) {
 	
 }
 
+//Mutator for the response string
 void Response::setResponse( string s ) {
 	
 	response = s;
 	
 }
 
+//Mutator for the id integer
 void Response::setId( int i ) {
 	
 	id = i;
 	
 }
 
+//Overloaded out operator that prints out a response
 ostream& operator<<( ostream& out, const Response& r ) {
 	
 	cout << r.getResponse();
