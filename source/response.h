@@ -16,8 +16,8 @@ using namespace std;
 class Response {
 	
 	private:
-		string response;
-		int id;
+		string response; 
+		int id; //Id that leads to the next prompt for this response
 	
 	public:
 	
