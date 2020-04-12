@@ -81,8 +81,7 @@ ostream& operator<<( ostream& out, const Prompt& prompt ) {
 	cout << prompt.getQuestion() << endl;
 	
 	srand( time( NULL ) );
-	randNum = rand() % 10 + 0
-	;
+	randNum = rand() % 10;
 	
 	for ( int i = 0; i < 3; i++ ) {
 	
