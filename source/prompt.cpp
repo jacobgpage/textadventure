@@ -45,30 +45,35 @@ Prompt::Prompt( const Prompt& prompt ) {
 	
 }
 
+//Mutator for question string
 void Prompt::setQuestion( string input ) {
 	
 	question = input;
 	
 }
 
+//Mutator for id integer
 void Prompt::setId( int i ) {
 
 	id = i;
 	
 }
 
+//Mutator for vector of responses
 void Prompt::addResponse( const Response r ) {
 
 	responses.push_back( r ); 
 	
 }
 
+//Clears the vector of responses
 void Prompt::clearReponses() {
 	
 	responses.clear();
 	
 }
 
+//Overloaded out operator that prints out a prompt class
 ostream& operator<<( ostream& out, const Prompt& prompt ) {
 	
 	int randNum;
@@ -99,6 +104,7 @@ ostream& operator<<( ostream& out, const Prompt& prompt ) {
 	
 }
 
+//Overloaded in operator that reads from a line of a file into a prompt class
 istream& operator>>( istream& in, Prompt& prompts ) {
 	
 	string input;
