@@ -19,15 +19,18 @@ using namespace std;
 
 class Prompt {
 	
+	//Outputs used for prompts when the user will enter their response
+	const string outputs[ 10 ] = { "What will you do next? ", "And your decision is? ", "What are you going to do? ", "Which one? ",  
+							"And your choice is? ", "What action will you take? ", "What will you do? ", 
+					     			 "You next action is? ", "What have you decided to do? ", "You decided to do? "};
+	
 	private:
 		string question;
 		int id;
+	
 		vector<Response> responses;
 	
 	public:
-	
-		const string outputs[ 10 ] = { "What will you do next? ", "And your decision is? ", "What are you going to do? ", "Which one? ", "And your choice is? ", 
-											"What action will you take? ", "What will you do? ", "You next action is? ", "What have you decided to do? ", "You decided to do? "};
 		
 		//A default constructor, a one para constructor, and a copy constructor
 		Prompt();
