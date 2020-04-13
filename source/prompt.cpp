@@ -23,7 +23,7 @@ Prompt::Prompt() {
 	this->setQuestion( "" );
 	this->setId( 0 );
 	
-	responses.reserve(1);
+	responses.reserve( 1 );
 	
 }
 
@@ -32,6 +32,8 @@ Prompt::Prompt( string in ) {
 	
 	this->setQuestion( in );
 	this->setId( 0 );
+	
+	responses.reserve( 1 );
 	
 }
 
@@ -89,7 +91,7 @@ ostream& operator<<( ostream& out, const Prompt& prompt ) {
 		
 		cout << i << ") " << response.getResponse() << endl;
 		
-		if (response.getId() == -1) {
+		if ( response.getId() == -1 ) {
 		
 			 i = 3;
 			
